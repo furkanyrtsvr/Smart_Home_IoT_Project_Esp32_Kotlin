@@ -1,13 +1,12 @@
-1. ![Smart_Home_1](https://github.com/user-attachments/assets/0f79032c-a5ff-4336-ba34-912ce6832f48)  
-2. ![Smart_Home_2](https://github.com/user-attachments/assets/436b9df0-b9b9-41b5-9e93-05a97c436496)  
-3. ![Smart_Home_3](https://github.com/user-attachments/assets/20e44a67-d32b-4a13-a43d-86ad93f61ec5)  
-4. ![Smart_Home_4](https://github.com/user-attachments/assets/d8d95e7f-5b8d-45e6-b7ad-51ae229eb46f)  
-5. ![Smart_Home_5](https://github.com/user-attachments/assets/43bc3a58-fecb-49cb-99fe-43ed8257ed98)  
-6. ![Smart_Home_6](https://github.com/user-attachments/assets/911239d0-2beb-4676-8a5f-bdf6b7497215)  
-7. ![Smart_Home_7](https://github.com/user-attachments/assets/7050dc8e-95f0-4811-a911-2416ab6ee744)  
-8. ![Smart_Home_8](https://github.com/user-attachments/assets/7a25c90a-302c-4cc9-a863-b9d3e24a37b6)  
-9. ![Smart_Home_9](https://github.com/user-attachments/assets/d281a7b3-95bb-4d93-b4f2-784b826af41e)  
-10. ![Smart_Home_10](https://github.com/user-attachments/assets/8c77fb24-0267-4c3b-9c4c-783e0ad994de)  
-11. ![Smart_Home_11](https://github.com/user-attachments/assets/4a500dcb-bb58-41a5-a6fd-22cc53563965)  
-12. ![Smart_Home_12](https://github.com/user-attachments/assets/7fb49407-7e91-4275-993f-52aea33c8c4e)
-
+<img src="https://github.com/user-attachments/assets/0f79032c-a5ff-4336-ba34-912ce6832f48" width="200"/>  
+<img src="https://github.com/user-attachments/assets/436b9df0-b9b9-41b5-9e93-05a97c436496" width="200"/>  
+<img src="https://github.com/user-attachments/assets/20e44a67-d32b-4a13-a43d-86ad93f61ec5" width="200"/>  
+<img src="https://github.com/user-attachments/assets/d8d95e7f-5b8d-45e6-b7ad-51ae229eb46f" width="200"/>  
+<img src="https://github.com/user-attachments/assets/43bc3a58-fecb-49cb-99fe-43ed8257ed98" width="200"/>  
+<img src="https://github.com/user-attachments/assets/911239d0-2beb-4676-8a5f-bdf6b7497215" width="200"/>  
+<img src="https://github.com/user-attachments/assets/7050dc8e-95f0-4811-a911-2416ab6ee744" width="200"/>  
+<img src="https://github.com/user-attachments/assets/7a25c90a-302c-4cc9-a863-b9d3e24a37b6" width="200"/>  
+<img src="https://github.com/user-attachments/assets/d281a7b3-95bb-4d93-b4f2-784b826af41e" width="200"/>  
+<img src="https://github.com/user-attachments/assets/8c77fb24-0267-4c3b-9c4c-783e0ad994de" width="200"/>  
+<img src="https://github.com/user-attachments/assets/4a500dcb-bb58-41a5-a6fd-22cc53563965" width="200"/>  
+<img src="https://github.com/user-attachments/assets/7fb49407-7e91-4275-993f-52aea33c8c4e" width="200"/>
