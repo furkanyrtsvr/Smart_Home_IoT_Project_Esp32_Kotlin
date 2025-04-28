@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.smart_home.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_navigation_home_to_to_do_list"
+            app:destination="@id/to_do_list" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_relay"
+        android:name="com.example.smart_home.ui.relay.relayFragment"
+        android:label="@string/title_relay"
+        tools:layout="@layout/fragment_relay" >
+        <action
+            android:id="@+id/action_navigation_relay_to_view_details_1"
+            app:destination="@id/view_details_1" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_light"
+        android:name="com.example.smart_home.ui.light.lightFragment"
+        android:label="@string/title_light"
+        tools:layout="@layout/fragment_light" >
+        <action
+            android:id="@+id/action_navigation_light_to_nav_color_picker"
+            app:destination="@id/nav_color_picker" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_sensor"
+        android:name="com.example.smart_home.ui.sensor.sensorFragment"
+        android:label="@string/title_sensor"
+        tools:layout="@layout/fragment_sensor" />
+
+    <fragment
+        android:id="@+id/navigation_camera"
+        android:name="com.example.smart_home.ui.camera.CameraFragment"
+        tools:layout="@layout/fragment_camera"
+        android:label="@string/camera"/>
+
+
+
+    <fragment
+        android:id="@+id/view_details_1"
+        android:name="com.example.smart_home.ui.relay.DetailFragment"
+        tools:layout="@layout/fragment_detail" />
+
+
+    <fragment
+        android:id="@+id/nav_edit_profile"
+        android:name="com.example.smart_home.ui.editprofile.editprofileFragment"
+        tools:layout="@layout/fragment_editprofile"
+        android:label="@string/edit_profile"/>
+
+
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.smart_home.ui.settings.SettingsFragment"
+        tools:layout="@layout/fragment_settings"
+        android:label="@string/settings"/>
+
+
+    <fragment
+        android:id="@+id/nav_about_us"
+        android:name="com.example.smart_home.ui.aboutus.aboutusFragment"
+        tools:layout="@layout/fragment_aboutus"
+        android:label="@string/about_us"/>
+
+
+    <fragment
+        android:id="@+id/nav_color_picker"
+        android:name="com.example.smart_home.ui.light.colorpickerFragment"
+        tools:layout="@layout/fragment_colorpicker"
+        android:label="@string/color_picker"/>
+
+    <fragment
+        android:id="@+id/to_do_list"
+        android:name="com.example.smart_home.ui.home.ToDoListFragment"
+        tools:layout="@layout/fragment_to_do_list"
+        android:label="@string/to_do_list">
+        <action
+            android:id="@+id/action_to_do_list_to_navigation_home2"
+            app:destination="@id/navigation_home" />
+    </fragment>
+
+
+
+
+
+
+</navigation>

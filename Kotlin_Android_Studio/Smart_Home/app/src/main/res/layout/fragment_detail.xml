@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.relay.DetailFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <!-- View Details butonu -->
+
+    <!-- Zamanı gösteren TextClock -->
+
+    <!-- Kaydet butonu -->
+
+    <!-- Başlangıç Zamanı TextView -->
+
+    <!-- Bitiş Zamanı TextView -->
+
+    <!-- Hafta içi günleri için RadioButton'lar -->
+
+    <!-- Röle Aç/Kapa Switch -->
+
+
+    <!-- Saat için NumberPicker -->
+
+    <!-- Dakika için NumberPicker -->
+
+
+    <NumberPicker
+        android:id="@+id/numberPickerMinute2"
+        android:layout_width="66dp"
+        android:layout_height="58dp"
+        android:layout_marginStart="180dp"
+        android:layout_marginTop="315dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <NumberPicker
+        android:id="@+id/numberPickerHour2"
+        android:layout_width="66dp"
+        android:layout_height="58dp"
+        android:layout_marginStart="114dp"
+        android:layout_marginTop="315dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <NumberPicker
+        android:id="@+id/numberPickerMinute"
+        android:layout_width="66dp"
+        android:layout_height="58dp"
+        android:layout_marginStart="180dp"
+        android:layout_marginTop="215dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <NumberPicker
+        android:id="@+id/numberPickerHour"
+        android:layout_width="66dp"
+        android:layout_height="58dp"
+        android:layout_marginStart="114dp"
+        android:layout_marginTop="215dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <Button
+        android:id="@+id/Kaydet"
+        android:layout_width="86dp"
+        android:layout_height="36dp"
+        android:layout_marginStart="288dp"
+        android:layout_marginTop="412dp"
+        android:backgroundTint="#EBEAE1"
+        android:text="KAYDET"
+        android:textSize="11sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/start_time2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="232dp"
+        android:text="Start time"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/end_time2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="336dp"
+        android:text="End time"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <CheckBox
+        android:id="@+id/bcumartesi"
+        android:layout_width="50dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="280dp"
+        android:layout_marginTop="144dp"
+        android:text="C"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <CheckBox
+        android:id="@+id/b_persembe"
+        android:layout_width="50dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="176dp"
+        android:layout_marginTop="144dp"
+        android:text="P"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <CheckBox
+        android:id="@+id/bpazartesi"
+        android:layout_width="50dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="144dp"
+        android:text="P"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <CheckBox
+        android:id="@+id/bsali"
+        android:layout_width="50dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="72dp"
+        android:layout_marginTop="144dp"
+        android:text="S"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <CheckBox
+        android:id="@+id/bcarsamba"
+        android:layout_width="50dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="124dp"
+        android:layout_marginTop="144dp"
+        android:text="Ç"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <CheckBox
+        android:id="@+id/bcuma"
+        android:layout_width="50dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="228dp"
+        android:layout_marginTop="144dp"
+        android:text="C"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <CheckBox
+        android:id="@+id/bpazar"
+        android:layout_width="50dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="332dp"
+        android:layout_marginTop="144dp"
+        android:text="P"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="56dp"
+        android:text="Automatic Relay Timer"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Switch
+        android:id="@+id/bstatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="306dp"
+        android:layout_marginTop="343dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="on"
+        android:textSize="22sp"
+        android:layout_marginStart="352dp"
+        android:layout_marginTop="338dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="off"
+        android:textSize="22sp"
+        android:layout_marginStart="269dp"
+        android:layout_marginTop="338dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="led status"
+        android:layout_marginStart="297dp"
+        android:layout_marginTop="308dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
