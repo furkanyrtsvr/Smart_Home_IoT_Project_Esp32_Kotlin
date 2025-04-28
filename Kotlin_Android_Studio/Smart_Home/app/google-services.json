@@ -1,6 +1,6 @@
 {
   "project_info": {
-    "project_number": "447609800899",
+    "project_number": "project_number",
     "firebase_url": "https://projectid-default-rtdb.firebaseio.com",
     "project_id": "projectid",
     "storage_bucket": "projectid.firebasestorage.app"
@@ -8,7 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:447609800899:android:fb63284bbcdb3bf241fa76",
+        "mobilesdk_app_id": "mobilesdk_app_id",
         "android_client_info": {
           "package_name": "com.example.my_app"
         }
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAUKmMuefkNvF6rrICMKzbdI3hvB5azW4o"
+          "current_key": "api_key"
         }
       ],
       "services": {
@@ -27,15 +27,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:447609800899:android:21ea3371b20d91e141fa76",
+        "mobilesdk_app_id": "mobilesdk_app_id",
         "android_client_info": {
-          "package_name": "com.example.smart_home"
+          "package_name": "com.example.projectname"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAUKmMuefkNvF6rrICMKzbdI3hvB5azW4o"
+          "current_key": "api_key"
         }
       ],
       "services": {
