@@ -12,6 +12,8 @@ FIREBASE_URL = "https://YourProjectid.firebaseio.com/"   Ag adı/Ag sifresi/fire
 
 5.Gerekli kütüphaneleri micropython üzerinden ekleyiniz. (Thonny ide)
 
+6.Firebase json dosyasini firebase real time database e importlayabilirsiniz.
+
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -33,4 +35,5 @@ Edit it with your WIFI name, WIFI password, and Firebase project ID.
 
 5.Install the required MicroPython libraries (Thonny IDE).
 
+6.You can import Firebase json file to Firebase real time database.
 
